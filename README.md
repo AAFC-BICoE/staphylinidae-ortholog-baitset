@@ -14,7 +14,7 @@ Clusters of orthologous genes were identified using the methodology given in Kyp
 
 * Brian Brunelle (Arbor BioSciences) for probe creation and QA/QC prior to manufacturing.  
 
-* Dr. Jeremy Dettman, Julie Chapados, Robyn Richter, Wayne McCormick (Agriculture & Agri-Food Canada) for the extensive validation and implementing of the bait set. 
+* Dr. Jeremy Dettman, Julie Chapados, Robin Richter, Wayne McCormick (Agriculture & Agri-Food Canada) for the extensive validation and implementing of the bait set. 
 
 ### Files ###
 * bait-stringent-RM25pc-all.fas: Final bait set with OrthoDB v9 headers
