@@ -147,7 +147,7 @@ Agriculture & Agri-Food Canada, Government of Canada
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ### Citations
-1)	Brunke, A J., Hansen, A. K., Salnitska, M., Kypke, J. L., Escalona, H., Chapados, J.T., Eyres, J., Richter, R., Smetana, A., Ślipiński, A., Zwick, A., Hájek, J., Leschen, R., Solodovnikov, A. and Dettman, J.R. The limits of Quediini at last (Coleoptera: Staphylinidae: Staphylininae): a rove beetle mega-radiation resolved by comprehensive sampling and anchored phylogenomics. Systematic Entomology. Accepted. 1–36.
+1)	Brunke, A J., Hansen, A. K., Salnitska, M., Kypke, J. L., Escalona, H., Chapados, J.T., Eyres, J., Richter, R., Smetana, A., Ślipiński, A., Zwick, A., Hájek, J., Leschen, R., Solodovnikov, A. and Dettman, J.R. The limits of Quediini at last (Coleoptera: Staphylinidae: Staphylininae): a rove beetle mega-radiation resolved by comprehensive sampling and anchored phylogenomics. Systematic Entomology 46 (2021): 396-421.
 	
 2)	Kypke, J.L. (2018). Phylogenetics of the world’s largest beetle family (Coleoptera: Staphylinidae): A methodological exploration. Natural History Museum of Denmark, Faculty of Science, University of Copenhagen. Available: https://curis.ku.dk/portal/files/217380217/PhD_Janina_Lisa_Kypke_SNM.pdf
 
