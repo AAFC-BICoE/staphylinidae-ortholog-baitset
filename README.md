@@ -5,6 +5,8 @@ targetting 1229 single-copy, protein encoding orthologs.
 Experimental application of this bait set is described in Brunke et al. (Accepted)
 
 ### Acknowledgements ###
+Developed under the direction of Jeremy Dettman as part of BioMob WP2
+
 This bait set was made possible by the significant contributions from the following scientists:  
 * Janina L. Kypke, (Natural History Museum of Denmark, Denmark) and Hermes Escalona (Australian National Insect Collection, Australia), 
 for providing the underlying ortholog alignments based on transcriptome and genome alignments given in the Supplementary_S2.csv file. 
